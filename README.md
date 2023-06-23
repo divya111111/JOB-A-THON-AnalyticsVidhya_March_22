@@ -1,4 +1,4 @@
-# Jobathon_AnalyticsVidhya_March_22
+# Hackathon_AnalyticsVidhya_March_22
 In this challenge, as a Data scientist of a bank, we are asked to analyze the past data and predict whether the customer will churn or not in the next 6 months. This would help the bank to have the right engagement with customers at the right time. 
 # Objective 
 Our objective is to build a machine learning model to predict whether the customer will churn or not in the next six months.
